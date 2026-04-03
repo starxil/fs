@@ -1,2 +1,2 @@
-# fs.github.io
+# 阿枯与大冒险
 一个CSZDCR同人游戏。
